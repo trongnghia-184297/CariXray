@@ -41,18 +41,23 @@ It includes dataset preparation tools, benchmark implementations, and reproducib
 
 | Id | Task        | Model       | Repository/Link |
 |----|-------------|-------------|-----------------|
-| 1  | Detection   | YOLOv8      | [Ultralytics/YOLOv8](https://github.com/ultralytics/ultralytics) |
-| 2  | Detection   | YOLOv9      | [YOLOv9 repo](https://github.com/WongKinYiu/yolov9) |
-| 3  | Detection   | YOLOR       | [WongKinYiu/yolor](https://github.com/WongKinYiu/yolor) |
-| 4  | Detection   | Faster R-CNN| [Detectron2](https://github.com/facebookresearch/detectron2) |
-| 5  | Detection   | RetinaNet   | [Detectron2](https://github.com/facebookresearch/detectron2) |
-| 6  | Segmentation| Mask R-CNN  | [Detectron2](https://github.com/facebookresearch/detectron2) |
-| 7  | Segmentation| Mask2Former | [facebookresearch/Mask2Former](https://github.com/facebookresearch/Mask2Former) |
-| 8  | Segmentation| YOLACT      | [dbolya/yolact](https://github.com/dbolya/yolact) |
-| 9  | Segmentation| FastInst    | [myownskyW7/FastInst](https://github.com/zhanghang1989/FastInst) |
-| 10 | Segmentation| YOLOv8-seg  | [Ultralytics/YOLOv8](https://github.com/ultralytics/ultralytics) |
-| 11 | Segmentation| YOLOv9-seg  | [YOLOv9 repo](https://github.com/WongKinYiu/yolov9) |
-| 12 | Segmentation| YOLOR-based | [WongKinYiu/yolor](https://github.com/WongKinYiu/yolor) |
+| 1  | Detection   | Faster R-CNN|                 |
+| 2  | Detection   | RetinaNet   |                 |
+| 3  | Detection   | YOLOv7      |                 |
+| 4  | Detection   | YOLOv8      |                 |
+| 5  | Detection   | YOLOv9      |                 |
+| 6  | Detection   | YOLOv10     |                 |
+| 7  | Detection   | DAMO-YOLO   |                 |
+| 8  | Detection   | YOLOR-Based |                 |
+| 9  | Segmentation| Mask R-CNN  |                 |
+| 10 | Segmentation| FastInst    |                 |
+| 11 | Segmentation| Mask2Former |                 |
+| 12 | Segmentation| YOLACT      |                 |
+| 13 | Segmentation| YOLOv7-seg  |                 |
+| 14 | Segmentation| YOLOv8-seg  |                 |
+| 15 | Segmentation| YOLOv9-seg  |                 |
+| 16 | Segmentation| YOLOR-Based |                 |
+
 
 ---
 
