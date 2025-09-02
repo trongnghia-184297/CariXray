@@ -32,7 +32,7 @@ It includes dataset preparation tools, benchmark implementations, and reproducib
 - **Cross-validation split**: Tools to generate **k-fold cross-validation** splits (default: 5 folds) are included to ensure reproducible experiments.  
     ```
     cd kfold
-    bash run.bash
+    python split_kfold.py
     ```
 
 ---

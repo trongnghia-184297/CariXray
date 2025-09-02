@@ -1,0 +1,9 @@
+,Faster_RCNN,RetinaNet,YOLOv7,YOLOv8,YOLOv9,YOLOv10,DAMO-YOLO,YOLOR-Based
+Faster_RCNN,False,True,True,True,True,True,True,True
+RetinaNet,True,False,True,True,True,True,False,True
+YOLOv7,True,True,False,True,True,True,True,True
+YOLOv8,True,True,True,False,True,True,True,True
+YOLOv9,True,True,True,True,False,True,True,False
+YOLOv10,True,True,True,True,True,False,True,True
+DAMO-YOLO,True,False,True,True,True,True,False,True
+YOLOR-Based,True,True,True,True,False,True,True,False

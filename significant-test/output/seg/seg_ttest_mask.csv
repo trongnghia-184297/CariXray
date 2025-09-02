@@ -1,0 +1,9 @@
+,Mask R-CNN,FastInst,Mask2Former,YOLACT,YOLOv7-seg,YOLOv8-seg,YOLOv9-seg,YOLOR-Based
+Mask R-CNN,False,True,False,True,True,True,True,True
+FastInst,True,False,True,False,True,True,True,True
+Mask2Former,False,True,False,False,True,True,True,True
+YOLACT,True,False,False,False,True,True,True,True
+YOLOv7-seg,True,True,True,True,False,True,True,True
+YOLOv8-seg,True,True,True,True,True,False,False,True
+YOLOv9-seg,True,True,True,True,True,False,False,True
+YOLOR-Based,True,True,True,True,True,True,True,False
