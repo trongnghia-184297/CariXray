@@ -9,11 +9,31 @@ It includes dataset preparation tools, benchmark implementations, and reproducib
 
 ## 2. Data
 
-- **Full dataset access**: The complete CariXray dataset can be obtained at [link].  
-- **Sample dataset for experiments**: A small subset of data for quick testing and reproducing experiments can be found at [link].  
-- **Detection label conversion**: Scripts are provided to convert detection labels from **YOLO Darknet format** to **COCO format**.  
-- **Segmentation label conversion**: Scripts are provided to convert segmentation labels from **YOLO Darknet format** to **COCO format**.  
+### 2.1. Dataset Access
+- **Full dataset access**: The complete CariXray dataset can be obtained at [[link](https://drive.google.com/drive/folders/14Km_y3JvuJesQtbDPFqSZhu2Zgv7xzS9?usp=sharing)].  
+- **Sample dataset for experiments**: A small subset of data for quick testing and reproducing experiments can be found at [[link](https://drive.google.com/drive/folders/1Nfj7m_PDUWAgBbEPD3lBJHHklNhpZaTv?usp=sharing)].  
+
+## 2.2 Label format conversion
+- **Detection label conversion**: Scripts are provided to convert detection labels from **YOLO Darknet format** to **COCO format**.
+    ```
+    cd yolo2coco_detection
+    bash yolo2coco.bash
+    ```
+
+
+- **Segmentation label conversion**: Scripts are provided to convert segmentation labels from **YOLO Darknet format** to **COCO format**.
+    ```
+    cd yolo2coco_segmentation
+    bash run.bash
+    ```
+
+
+## 2.3 K-fold cross-validation split
 - **Cross-validation split**: Tools to generate **k-fold cross-validation** splits (default: 5 folds) are included to ensure reproducible experiments.  
+    ```
+    cd kfold
+    bash run.bash
+    ```
 
 ---
 
