@@ -55,7 +55,7 @@ It includes dataset preparation tools, benchmark implementations, and reproducib
 | 12 | Segmentation| YOLACT      | [link](https://github.com/dbolya/yolact)                |
 | 13 | Segmentation| YOLOv7-seg  | [link](https://github.com/RizwanMunawar/yolov7-segmentation)                |
 | 14 | Segmentation| YOLOv8-seg  | [link](https://github.com/ultralytics/ultralytics)                |
-| 15 | Segmentation| YOLOv9-seg  | [link](https://github.com/WongKinYiu/yolov9)                |
+| 15 | Segmentation| YOLOv9-seg  | [link](https://github.com/ultralytics/ultralytics)                |
 | 16 | Segmentation| YOLOR-Based | [link](https://github.com/WongKinYiu/yolov9)                |
 
 
