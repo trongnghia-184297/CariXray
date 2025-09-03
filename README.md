@@ -41,22 +41,22 @@ It includes dataset preparation tools, benchmark implementations, and reproducib
 
 | Id | Task        | Model       | Repository/Link |
 |----|-------------|-------------|-----------------|
-| 1  | Detection   | Faster R-CNN|                 |
-| 2  | Detection   | RetinaNet   |                 |
-| 3  | Detection   | YOLOv7      |                 |
-| 4  | Detection   | YOLOv8      |                 |
-| 5  | Detection   | YOLOv9      |                 |
-| 6  | Detection   | YOLOv10     |                 |
-| 7  | Detection   | DAMO-YOLO   |                 |
-| 8  | Detection   | YOLOR-Based |                 |
-| 9  | Segmentation| Mask R-CNN  |                 |
-| 10 | Segmentation| FastInst    |                 |
-| 11 | Segmentation| Mask2Former |                 |
-| 12 | Segmentation| YOLACT      |                 |
-| 13 | Segmentation| YOLOv7-seg  |                 |
-| 14 | Segmentation| YOLOv8-seg  |                 |
-| 15 | Segmentation| YOLOv9-seg  |                 |
-| 16 | Segmentation| YOLOR-Based |                 |
+| 1  | Detection   | Faster R-CNN| [link](https://github.com/facebookresearch/detectron2)                 |
+| 2  | Detection   | RetinaNet   | [link](https://github.com/facebookresearch/detectron2)                 |
+| 3  | Detection   | YOLOv7      | [link](https://github.com/WongKinYiu/yolov7)                |
+| 4  | Detection   | YOLOv8      | [link](https://github.com/ultralytics/ultralytics)               |
+| 5  | Detection   | YOLOv9      | [link](https://github.com/WongKinYiu/yolov9)                |
+| 6  | Detection   | YOLOv10     | [link](https://github.com/ultralytics/ultralytics)                |
+| 7  | Detection   | DAMO-YOLO   | [link](https://github.com/tinyvision/DAMO-YOLO)                |
+| 8  | Detection   | YOLOR-Based | [link](https://github.com/WongKinYiu/yolov9)                |
+| 9  | Segmentation| Mask R-CNN  | [link](https://github.com/facebookresearch/detectron2)                 |
+| 10 | Segmentation| FastInst    | [link](https://github.com/junjiehe96/FastInst)                |
+| 11 | Segmentation| Mask2Former | [link](https://github.com/open-mmlab/mmdetection/tree/master/configs/mask2former)                |
+| 12 | Segmentation| YOLACT      | [link](https://github.com/dbolya/yolact)                |
+| 13 | Segmentation| YOLOv7-seg  | [link](https://github.com/RizwanMunawar/yolov7-segmentation)                |
+| 14 | Segmentation| YOLOv8-seg  | [link](https://github.com/ultralytics/ultralytics)                |
+| 15 | Segmentation| YOLOv9-seg  | [link](https://github.com/WongKinYiu/yolov9)                |
+| 16 | Segmentation| YOLOR-Based | [link](https://github.com/WongKinYiu/yolov9)                |
 
 
 ---
